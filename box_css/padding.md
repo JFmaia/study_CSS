@@ -16,6 +16,6 @@ O preenchimento pode ter *valores (valores)* de *comprimento* (px, em, rem) ou d
 
 * O preenchimento pode causar diferença na largura de um elemento
 * 
-obs.: Na aula sobre aprendemos como resolver essa diferença na largura do elemento ``box-xizing`
+obs.: Na aula sobre aprendemos como resolver essa diferença na largura do elemento `box-xizing`
 
 [https://app.rocketseat.com.br/node/uma-caixa-dentro-da-outra/lesson/box-sizing]
