@@ -43,3 +43,25 @@ p {
 Referência
 
 [https://www.w3.org/TR/css-fonts-3/]
+
+
+## Estilo de fonte
+* É o estilo da fonte
+* Valores: | normal | itálico oblíquo
+* Os valores que podem ser aplicados dependem da fonte usada
+
+```css
+span {
+	font-style: italic;
+}
+```
+
+## Tamanho da fonte
+
+* Tamanho da fonte
+
+```css
+p {
+	font-size: 18px;
+}
+```
