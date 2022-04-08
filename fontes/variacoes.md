@@ -53,3 +53,30 @@ p {
 ``` 
 
 [https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing]
+
+# Altura da linha
+* Definir os espaços entre linhas
+* Pode ser com unidades ou sem unidades de medida
+* Valores comuns: 1.5 ou 2
+
+```css
+p {
+	line-height: 1.5;
+}
+```
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/line-height]
+
+# Transformação de texto
+
+* Transformação do texto
+* Valores pode ser: nenhum | capitalizar | | maiústos | minúsculas | de largura total tamanho completo-kana
+
+```css
+
+p {
+	text-transform: uppercase;
+}
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
+
+```
