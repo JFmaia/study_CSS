@@ -28,3 +28,28 @@ p {
 ## Referência
 
 [https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals]
+
+
+# Espaçamento de letras
+
+* Defina o espaçamento entre os caracteres
+
+``` css
+p {
+	letter-spacing: 4px;
+}
+```
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing]
+
+## Espaçamento de palavras
+
+* Defina o espaçamento entre palavras
+
+```css
+p {
+	word-spacing: 1em;
+}
+``` 
+
+[https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing]
