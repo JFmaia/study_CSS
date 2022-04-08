@@ -13,7 +13,7 @@ p {
 ## Estiramento da fonte
 
 * Alargamento ou encolhimento da fonte
-* Aceita palavras-chaves como: expandida, condensada, normal
+* Aceita palavras-chaves como: expanded, condensed, normal
 * Aceita porcentagens de 50% a 200%
 * Essa propriedade não vai funcionar em todas as fontes
 
