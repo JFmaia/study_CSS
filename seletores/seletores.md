@@ -4,9 +4,9 @@ Conecta um elemento HTML com o CSS a fim de alterar o elemento.
 
 ## Tipos:
 
-- Element Selector
+### Element Selector
 
-Todos os elementos HTML
+-Todos os elementos HTML
 
 ```HTML
 
@@ -25,7 +25,7 @@ p {
 }
 ```
 
-## ID Selector
+### ID Selector
 
 - Um elemento que tenha um atributo id
 - Cada id deverá ser único
@@ -48,7 +48,7 @@ p {
 }
 ```
 
-## Class Selector
+### Class Selector
 
 - Os elementos com atributo class
 - Podemos ter uma ou mais classes
@@ -70,7 +70,7 @@ color: red;
 }
 ```
 
-## Attribute Selector
+### Attribute Selector
 
 - Um elemento que tenha um atributo específico
 
@@ -87,7 +87,7 @@ color: red;
 }
 ```
 
-## Pseudo-class Selector
+### Pseudo-class Selector
 
 - Elementos em um estado específico
 ``` HTML
@@ -106,7 +106,7 @@ h1:hover {
 	color: red;
 }
 ```	
-## Múltiplos
+### Múltiplos
 
 - É possível selecionar múltiplos elementos e aplicar alguma regra CSS para todos eles.
 
